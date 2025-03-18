@@ -1,4 +1,4 @@
-# debugging isn't all about fixing the mistake; it's about finding and understanding the bug
+debugging isn't all about fixing the mistake; it's about finding and understanding the bug
 
 <!--
 **rshdgvn/rshdgvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
