@@ -3,7 +3,7 @@
 
 ```javascript
 const rshdgvn = {
-  name: "Rasheed Gavin"
+  name: "Rasheed Gavin",
   pronouns: "he" | "him | his",
   language: [HTML, CSS, Javascript, Typescript, Python, C#, PHP],
   frameworks: [React, React Native, Laravel, Tailwindcss],
