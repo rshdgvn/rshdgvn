@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=00f7ff&center=true&vCenter=true&width=800&height=80&lines=Rasheed+Gavin;Aspiring+Software+Engineer" alt="Animated Header" />
+</div>
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
