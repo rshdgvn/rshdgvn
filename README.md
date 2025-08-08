@@ -7,13 +7,20 @@
 const rshdgvn = {
   pronouns: ["he", "him", "his"],
   location: "Philippines",
+  funFact: "I debug at 3 AM and somehow it works."
+};
+```
+
+# Skills:
+```javascript
+const skills = {
   languages: ["HTML", "CSS", "JavaScript", "TypeScript", "Python", "C#", "PHP"],
   frameworks: ["React", "React Native", "Laravel", "TailwindCSS"],
-  tools: ["Git", "GitHub", "VS Code", "Figma", "Postman", "MySQL"],
-  funFact: "I debug at 3 AM and somehow it works.",
+  tools: ["Git", "GitHub", "VS Code", "Figma", "Postman", "MySQL"]
 };
-
 ```
+
+
 
 # Stats:
 ![rshdgvn's Stats](https://github-readme-stats.vercel.app/api?username=rshdgvn&theme=merko&show_icons=true&hide_border=true&count_private=true)
