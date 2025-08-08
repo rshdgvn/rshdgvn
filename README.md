@@ -13,6 +13,16 @@ const rshdgvn = {
 };
 
 ```
+# Stats:
+![](https://github-readme-stats.vercel.app/api?username=rshdgvn&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rshdgvn&theme=shadow_green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rshdgvn&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=rshdgvn&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <div align="center">
   <img src="https://fakeimg.pl/600x40/90ee90/000000?text=You're%20the%20semicolon%20to%20my%20statements%20%E2%80%94%20without%20you%2C%20I'm%20broken.&font=roboto" alt="semicolon quote"/>
 </div>
