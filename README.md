@@ -5,10 +5,13 @@
 # About Me:
 ```javascript
 const rshdgvn = {
-  pronouns: ["he", "him", "his"],
   location: "Philippines",
+  course: "BS Information Systems",
+  hobbies: ["sleeping", "coding", "solving CTF challenges"],
+  pronouns: ["he", "him", "his"],
   funFact: "I debug at 3 AM and somehow it works."
 };
+
 ```
 
 # Skills:
