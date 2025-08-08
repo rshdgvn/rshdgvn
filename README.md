@@ -14,5 +14,6 @@ const rshdgvn = {
 
 ```
 <div align="center">
-  <img src="https://fakeimg.pl/760x90/90ee90/000000?text=You're%20the%20semicolon%20to%20my%20statements%20%E2%80%94%20without%20you%2C%20I'm%20broken.&font=lobster" alt="semicolon quote"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3600&pause=1000&color=ff79c6&center=true&vCenter=true&width=760&height=90&lines=You%E2%80%99re+the+semicolon+to+my+statements+%E2%80%94+without+you%2C+I%E2%80%99m+broken." alt="typing punchline"/>
 </div>
+
