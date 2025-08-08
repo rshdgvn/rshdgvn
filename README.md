@@ -13,11 +13,3 @@ const rshdgvn = {
 };
 
 ```
-<h3 align="center">
-  <span style="color:#90EE90;">You're the semicolon to my statements</span>
-  — without you, I'm broken.
-</h3>
-
-
-
----
