@@ -13,8 +13,10 @@ const rshdgvn = {
 };
 
 ```
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3600&pause=1000&color=ff79c6&center=true&vCenter=true&width=760&height=90&lines=You%E2%80%99re+the+semicolon+to+my+statements" alt="typing punchline"/>
-</div>
+<h2 align="center">
+  <span style="color:green;">You're the semicolon to my statements</span>
+  <span style="color:black;"> — without you, I'm broken.</span>
+</h2>
+
 
 ---
