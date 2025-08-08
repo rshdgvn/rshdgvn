@@ -2,10 +2,8 @@
 
 ```javascript
 const rshdgvn = {
-  name: "Rasheed Gavin",
   pronouns: ["he", "him", "his"],
   location: "Philippines",
-  role: "Aspiring Software Engineer",
   languages: ["HTML", "CSS", "JavaScript", "TypeScript", "Python", "C#", "PHP"],
   frameworks: ["React", "React Native", "Laravel", "TailwindCSS"],
   tools: ["Git", "GitHub", "VS Code", "Figma", "Postman", "MySQL"],
