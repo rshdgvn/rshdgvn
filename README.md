@@ -13,10 +13,10 @@ const rshdgvn = {
 };
 
 ```
-<h2 align="center">
-  <span style="color:green;">You're the semicolon to my statements</span>
-  <span style="color:black;"> — without you, I'm broken.</span>
-</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/You're%20the%20semicolon%20to%20my%20statements-00FF00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/—%20without%20you%2C%20I'm%20broken.-000000?style=for-the-badge" />
+</p>
 
 
 ---
