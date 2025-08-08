@@ -3,10 +3,15 @@
 ```javascript
 const rshdgvn = {
   name: "Rasheed Gavin",
-  pronouns: "he" | "him | his",
-  language: [HTML, CSS, Javascript, Typescript, Python, C#, PHP],
-  frameworks: [React, React Native, Laravel, Tailwindcss],
-}
+  pronouns: ["he", "him", "his"],
+  location: "Philippines",
+  role: "Aspiring Software Engineer",
+  languages: ["HTML", "CSS", "JavaScript", "TypeScript", "Python", "C#", "PHP"],
+  frameworks: ["React", "React Native", "Laravel", "TailwindCSS"],
+  tools: ["Git", "GitHub", "VS Code", "Figma", "Postman", "MySQL"],
+  funFact: "I debug at 3 AM and somehow it works.",
+};
+
 ```
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3600&pause=1000&color=ff79c6&center=true&vCenter=true&width=760&height=90&lines=You%E2%80%99re+the+semicolon+to+my+statements" alt="typing punchline"/>
