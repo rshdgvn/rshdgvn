@@ -8,7 +8,8 @@ const rshdgvn = {
   frameworks: [React, React Native, Laravel, Tailwindcss],
 }
 ```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3600&pause=1000&color=ff79c6&center=true&vCenter=true&width=760&height=90&lines=You%E2%80%99re+the+semicolon+to+my+statements+%E2%80%94+without+you%2C+I%E2%80%99m+broken." alt="typing punchline"/>
+</div>
 
 ---
