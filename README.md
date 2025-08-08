@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Rasheed+Gavin;Aspiring+Software+Engineer" alt="Animated Header" />
 </div>
 
-A little more about me...  
-
 ```javascript
 const rshdgvn = {
   pronouns: ["he", "him", "his"],
