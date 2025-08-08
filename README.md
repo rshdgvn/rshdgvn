@@ -14,9 +14,9 @@ const rshdgvn = {
 # Skills:
 ```javascript
 const skills = {
-  languages: ["HTML", "CSS", "JavaScript", "TypeScript", "Python", "C#", "PHP"],
+  languages: ["HTML", "CSS", "JavaScript", "TypeScript", "Python", "PHP"],
   frameworks: ["React", "React Native", "Laravel", "TailwindCSS"],
-  tools: ["Git", "GitHub", "VS Code", "Figma", "Postman", "MySQL"]
+  tools: ["Git", "GitHub", "VS Code", "Postman", "MySQL"]
 };
 ```
 
