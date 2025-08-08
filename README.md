@@ -13,3 +13,6 @@ const rshdgvn = {
 };
 
 ```
+<div align="center">
+  <img src="https://fakeimg.pl/760x90/90ee90/000000?text=You're%20the%20semicolon%20to%20my%20statements%20%E2%80%94%20without%20you%2C%20I'm%20broken.&font=lobster" alt="semicolon quote"/>
+</div>
