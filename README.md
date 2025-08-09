@@ -7,7 +7,7 @@
 const rshdgvn = {
   location: "Philippines",
   course: "BS Information Systems",
-  hobbies: ["sleeping", "coding", "solving CTF challenges"],
+  hobbies: ["sleeping", "coding", "solving Leetcode challenges"],
   pronouns: ["he", "him", "his"],
   funFact: "I debug at 3 AM and somehow it works."
 };
