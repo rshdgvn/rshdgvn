@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Rasheed+Gavin;Aspiring+Software+Engineer;Cybersecurity+Analyst" alt="Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Rasheed+Gavin;Aspiring+Software+Engineer;%26%26+Cybersecurity+Analyst" alt="Animated Header" />
 </div>
 
 
