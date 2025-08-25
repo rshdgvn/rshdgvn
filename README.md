@@ -31,7 +31,6 @@ const skills = {
 ![rshdgvn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rshdgvn&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rshdgvn&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3600&pause=1000&color=ff79c6&center=true&vCenter=true&width=760&height=90&lines=You%E2%80%99re+the+semicolon+to+my+statements+without+you%2C+I%E2%80%99m+broken." alt="typing punchline"/>
