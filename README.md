@@ -24,11 +24,6 @@ const skills = {
 };
 ```
 
-
-
-# Stats:
-![rshdgvn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rshdgvn&theme=merko&hide_border=true)
-
 ---
 
 <div align="center">
