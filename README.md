@@ -8,7 +8,7 @@
 const rshdgvn = {
   location: "Philippines",
   course: "BS Information Systems",
-  hobbies: ["sleeping", "coding", "solving Leetcode challenges"],
+  hobbies: ["sleeping", "coding", "solving Leetcode challenges", "playing CTF"],
   pronouns: ["he", "him", "his"],
   funFact: "I debug at 3 AM and somehow it works."
 };
@@ -18,9 +18,9 @@ const rshdgvn = {
 # Skills:
 ```javascript
 const skills = {
-  languages: ["HTML", "CSS", "JavaScript", "TypeScript", "Python", "PHP"],
+  languages: ["HTML", "CSS", "JavaScript", "TypeScript", "Python", "PHP", "C#"],
   frameworks: ["React", "React Native", "Laravel", "TailwindCSS"],
-  tools: ["Git", "GitHub", "VS Code", "Postman", "MySQL"]
+  tools: ["Git", "GitHub", "VS Code", "Postman", "MySQL", "Docker"],
 };
 ```
 
