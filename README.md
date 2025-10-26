@@ -22,11 +22,4 @@ const skills = {
   frameworks: ["React", "React Native", "Laravel", "TailwindCSS"],
   tools: ["Git", "GitHub", "VS Code", "Postman", "MySQL", "Docker"],
 };
-```
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3600&pause=1000&color=ff79c6&center=true&vCenter=true&width=760&height=90&lines=You%E2%80%99re+the+semicolon+to+my+statements+without+you%2C+I%E2%80%99m+broken." alt="typing punchline"/>
-</div>
 
