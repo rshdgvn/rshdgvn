@@ -52,5 +52,7 @@
 
 <br>
 <p align="center">
-  <em>"Building systems is one thing. <br>Protecting them is where true mastery begins."</em><br>
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&animation=fade_in&quoteCategory=programming">
+  </a>
 </p>
