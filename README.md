@@ -29,6 +29,7 @@
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" />&nbsp;
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" />
   </kbd>&nbsp;&nbsp;
+  <br>
   <kbd>
     <kbd style="font-weight: bold; padding: 2px 6px;">Backend & DBs</kbd>
     <br><br>
