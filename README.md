@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">
   <em>
-    <span style="color: #7aa2f7;">Aspiring Cybersecurity | Software and AI/ML Engineer</span> 
+    <span style="color: #7aa2f7;">Aspiring Cybersecurity | Software Engineer</span> 
   </em>
 </h3>
 
